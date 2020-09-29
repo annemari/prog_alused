@@ -1,6 +1,4 @@
-temp = float(input("Sisesta õhtemperatuur: "))
-
-if(temp <= 4.0):
-    print("on jäätumise oht")
-else:
-    print("jäätumise ohtu pole")
+temp = int(input("Sisesta õhutemperatuur: "))
+if temp <= 4.0:
+    print("On jäätumise oht")
+else: print("Ei ole jäätumise ohtu")
