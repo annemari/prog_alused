@@ -1,3 +1,3 @@
 aratus = int(input("Sisestage mitu korda äratada: "))
-for i in range(aratus):
+for k in range(0, aratus):
     print("Tõuse ja sära!")
